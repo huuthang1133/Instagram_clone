@@ -1,0 +1,19 @@
+.btn {
+    width: 100%;
+  }
+  
+  h1 {
+    margin-bottom: 40px;
+  }
+  
+  .top {
+    padding: 40px;
+    border: 1px solid #eee;
+    margin-bottom: 20px;
+  }
+  
+  .bottom {
+    border: 1px solid #eee;
+    padding: 20px;
+  }
+  
