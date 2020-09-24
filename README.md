@@ -47,4 +47,4 @@ Huu Thang
 
 # SEVER HEROKU
 
-[(https://project-ig-clone.herokuapp.com/)]
+[](https://project-ig-clone.herokuapp.com/)
