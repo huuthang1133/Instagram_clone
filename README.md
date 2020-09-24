@@ -5,20 +5,20 @@ This is a MERN stack application. It is a small social network app that includes
 # Functionality
 
 ## Auth
-```
+
 * Register user 
 * Login user
 * Get logged in user
-```
+
 # Posts
-```
+
 * Create post (upload photo)
 * Get posts
 * Get single post
 * Like & Unlike post
 * Getl all like post
 * Comment post
-```
+
 # Quick Start
 ```
 {
@@ -28,18 +28,19 @@ This is a MERN stack application. It is a small social network app that includes
 ```
 
 # Install server dependencies
-
+```
 npm install
-
+```
 # Install client dependencies
-
+```
 cd client
+
 npm install
-
+```
 # Run both Express & React from root
-
+```
 npm run dev
-
+```
 # App Info
 
 ## Author
@@ -48,4 +49,4 @@ Huu Thang
 
 # SEVER HEROKU
 
-[HEROKU:](https://project-ig-clone.herokuapp.com/)
+SERVER: https://project-ig-clone.herokuapp.com/
