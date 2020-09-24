@@ -5,26 +5,27 @@ This is a MERN stack application. It is a small social network app that includes
 # Functionality
 
 ## Auth
-
+```
 * Register user 
 * Login user
 * Get logged in user
-
+```
 # Posts
-
+```
 * Create post (upload photo)
 * Get posts
 * Get single post
 * Like & Unlike post
 * Getl all like post
 * Comment post
-
+```
 # Quick Start
-
+```
 {
   "mongoURI": "<your_mongoDB_URI>",
-    "cloudinary": "<your_cloudinary>"
+  "cloudinary": "<your_cloudinary>"
 }
+```
 
 # Install server dependencies
 
@@ -47,4 +48,4 @@ Huu Thang
 
 # SEVER HEROKU
 
-[](https://project-ig-clone.herokuapp.com/)
+[HEROKU:](https://project-ig-clone.herokuapp.com/)
